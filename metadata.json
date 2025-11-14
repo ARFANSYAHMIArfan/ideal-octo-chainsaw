@@ -1,0 +1,8 @@
+{
+  "name": "S.O.S BULI - SMART REPORTING SYSTEM",
+  "description": "Sistem pintar untuk menganalisis dan menghantar laporan kes. Tulis laporan kes, perkayakannya dengan maklumat terkini dari Carian Google menggunakan Gemini, dan hantar laporan yang diformat ke sembang Telegram.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
